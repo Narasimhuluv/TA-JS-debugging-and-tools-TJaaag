@@ -15,8 +15,7 @@ try{
 }
 
 function multiplyNumbers(numA, numB){
-    return 
-   
+    return numA *numB
 }
 let results = multiplyNumbers(5,5);
 let expected = 50;
